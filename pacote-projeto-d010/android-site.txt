@@ -1,0 +1,52 @@
+Camilla Giordano Pereira Kawakami
+
+iPhone 17 Pro
+
+SN: GT2D6PY2L4
+IMEI: 355146932234968
+MAC: 74-14-D0-20-15-70
+
+-------------------------------------------------------------
+
+Passagem de turno:
+
+EQUIPAMENTOS PRONTOS: 
+
+EQUIPAMENTOS PENDENTES:
+
+RITM0931566 - Formatação - necessita apagar o Hostname, não tenho essa autonomia para apagar
+
+EQUIPAMENTOS DEPENDENTES DE OUTROS: 
+
+Notebook do Alan – Persiste problema mesmo após duas trocas de placa-mãe na garantia / Lenovo acionada ( 2030205684).
+
+RITM0931587 - Necessita cadastrar no Print Server
+INC0262222 – Acionada Scan2Go
+INC0262225 - Acionada Scan2Go
+INC0262818 - Acionado Scan2Go
+
+SUMPRTWIFI0104 - Realizado configuração de iP, necessita realizar o registro no (Print Server) Chamado aberto ==> RITM0929374
+
+SUMPRTWIFI0129 | SUMPRTWIFI0130 | SUMPRTWIFI0131 - Necessita realizar o registro no WMS, Honda responsável ciente.
+
+Impressoras (ZQ630) novas com iP criado ==> chamado para registro no Print Server:
+
+Segue abaixo:
+
+RITM0932126
+RITM0932127
+RITM0932128
+RITM0932129
+RITM0932130
+
+Chamados das impressoras (ZQ630) novas para criação de iP.
+ 
+Segue abaixo:
+
+RITM0931554 
+RITM0931558 
+RITM0931559 
+RITM0931560  
+RITM0931569 
+RITM0931570 
+-------------------------------------------------------------
